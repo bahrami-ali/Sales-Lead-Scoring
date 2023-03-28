@@ -1,0 +1,3 @@
+
+pandas
+openpyxl # used by pandas read_excel under the hood
